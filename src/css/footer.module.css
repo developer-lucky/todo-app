@@ -1,0 +1,12 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: yellow;
+    width: 100%;
+    text-align: center;
+    display: flex;
+}
+
+.item{
+    margin-left: 100px;
+}

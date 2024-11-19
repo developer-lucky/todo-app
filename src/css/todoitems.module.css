@@ -1,0 +1,26 @@
+.checkboxDisplay{
+    font-size: 20px;
+    flex-grow: 1;
+}
+
+.container{
+    height: 1em;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    box-shadow: 0 4px rgba(0,0,0,0.1);
+    display: flex;
+  align-items: center;
+  justify-content: space-between; /* This will space the elements out and align them to the sides */
+}
+
+.buttonDelete {
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: auto; 
+    background-color: red;
+    color: white; 
+    border: 1px;
+    padding: 5px 10px; 
+    cursor: pointer;
+    border-radius: 10px;
+  }
